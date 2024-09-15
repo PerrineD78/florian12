@@ -5,7 +5,7 @@ Florian 12 est un projet réalisé en HTML, CSS et JavaScript dans le cadre de m
 Exécution en local
 
 Cloner le projet.
-Lancer le jeu dans votre navigateur et suivez les indices pour résoudre les énigmes
+Lancer le jeu dans votre navigateur à partir de index.html et suivez les indices pour résoudre les énigmes
 
 Fonctionnalités principales
 
