@@ -19,11 +19,11 @@ HTML
 CSS
 JavaScript
 
-Contributeurs
+## Contributeurs
+- **Lorys Lellouche** ([idgaram](https://github.com/idgaram))
+- **Perrine Deserville** ([PerrineD78](https://github.com/PerrineD78))
+- **Jordan Thivault** ([JordanThivault](https://github.com/JordanThivault))
+- **Joris Camus** ([djo65](https://github.com/djo65))
+- **Landry Dupont** ([landry445](https://github.com/landry445))
+- **Mars Seyot** ([leodagandecarmelide](https://github.com/leodagandecarmelide))
 
-Lorys Lellouche (idgaram)
-Perrine Deserville (PerrineD78)
-Jordan Thivault (JordanThivault)
-Joris Camus (djo65)
-Landry Dupont (landry445)
-Mars Seyot (leodagandecarmelide)
